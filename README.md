@@ -1,3 +1,5 @@
 # dsbrillantes.github.io
 
-GitHub Pages Site
+My personal website/portfolio site hosted on GitHub!
+
+Template: edited Strata by HTML5
